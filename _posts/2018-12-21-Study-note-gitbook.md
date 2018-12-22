@@ -1,7 +1,3 @@
----
-layout: post
-title: Study Note Sites
----
 <head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
@@ -13,6 +9,11 @@ title: Study Note Sites
         });
     </script>
 </head>
+---
+layout: post
+title: Study Note Sites
+---
+
 #### Web
 
 Web Scrapping Study Note:<https://hecate-dynmist.github.io/Scrap-Note/>
