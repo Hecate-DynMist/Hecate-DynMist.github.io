@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title: Study Note Sites
+title:Study Note Sites
 ---
 
 
