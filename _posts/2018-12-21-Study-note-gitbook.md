@@ -5,4 +5,4 @@ title: Study Note Sites
 
 #### Web
 
-[Web Scrapping Study Note:] (https://hecate-dynmist.github.io/Scrap-Note/) 
+[Web Scrapping Study Note]  (https://hecate-dynmist.github.io/Scrap-Note/) 
